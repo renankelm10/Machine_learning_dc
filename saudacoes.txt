@@ -1,0 +1,6 @@
+Olá, Ana! Bem-vindo ao mundo do Python.
+Olá, Carlos! Bem-vindo ao mundo do Python.
+Olá, Beatriz! Bem-vindo ao mundo do Python.
+Olá, Ana! Bem-vindo ao mundo do Python.
+Olá, Carlos! Bem-vindo ao mundo do Python.
+Olá, Beatriz! Bem-vindo ao mundo do Python.
